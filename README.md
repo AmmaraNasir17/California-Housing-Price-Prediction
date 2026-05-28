@@ -1,4 +1,5 @@
 # California Housing Price Prediction
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/AmmaraNasir17/California-Housing-Price-Prediction/blob/master/project.ipynb)
 
 ## 📌 Project Overview
 
