@@ -90,6 +90,8 @@ The aim is to explore **which factors most influence housing prices** and compar
 ### 3. **Random Forest Regressor**
 - Ensemble of decision trees; most robust model.
 - Best performance across all metrics.
+  
+  ![1](1.png)
 
 ---
 
